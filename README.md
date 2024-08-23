@@ -9,5 +9,5 @@ A simple Python application that generates random password of specified length.
 Run the file in the terminal. 
 
 ```bash
-  python password_generator.py
+  python main.py
 ```
